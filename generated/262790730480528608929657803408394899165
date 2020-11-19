@@ -1,0 +1,1 @@
+curl -X POST "https://virtserver.swaggerhub.com/dmusy/2048_tracking/1.0.0/inventory" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{\"id\": \"q7N9cdfi-e595-H54e-373K-F868JB11O51K\", \"name\": \"gT\", \"releaseDate\": {32/18/1959}, \"manufacturer\": {\"name\": \"Kec\", \"homePage\": \"https://www.DAtt.com\", \"phone\": \"739-961-5776\"}}"

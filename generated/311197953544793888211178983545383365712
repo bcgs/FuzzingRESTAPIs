@@ -1,0 +1,1 @@
+curl -X POST "https://virtserver.swaggerhub.com/dmusy/2048_tracking/1.0.0/inventory" -H  "accept: application/json" -H  "Content-Type: application/json" -d "{\"id\": \"qV46R2z9-y1ag-8o81-1h5t-hN1141fw8g76\", \"name\": \"t\", \"releaseDate\": {46/44/1984}, \"manufacturer\": {\"name\": \"G\", \"homePage\": \"https://www.KL.com\", \"phone\": \"578-728-3832\"}}"

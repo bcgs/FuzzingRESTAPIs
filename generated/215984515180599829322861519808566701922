@@ -1,0 +1,1 @@
+curl -X GET "https://virtserver.swaggerhub.com/dmusy/2048_tracking/1.0.0/inventory?searchString=j&skip=411&limit=7" -H  "accept: application/json"
