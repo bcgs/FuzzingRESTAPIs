@@ -1,0 +1,1 @@
+Repo used as a demo on how to use the software testing technique called fuzzing on any REST API with [Grammarinator](https://github.com/renatahodovan/grammarinator).
